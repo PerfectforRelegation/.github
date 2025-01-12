@@ -1,1 +1,3 @@
-# .github
+# Hooligans
+
+Sports team Coin
